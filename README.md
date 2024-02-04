@@ -1,4 +1,8 @@
 # Netflix GPT
+# https://netflixgpt-388e5.web.app
+# eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMzY3ZmQzOTgyZjZiYjJkY2NlOGYxYjIzNGRhZDliMiIsInN1YiI6IjY1YmYyNmUyOWYzN2IwMDE3YzViZjQxNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.VA-gzPHBZYUHSctaoHkivDXQldcpm77_-TS0bmVhUpA
+# windows + . to access emojis
+# Netflix GPT
 
 - Create React App
 - Configured TailwindCSS 
